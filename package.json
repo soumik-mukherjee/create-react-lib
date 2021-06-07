@@ -1,6 +1,6 @@
 {
   "name": "create-react-lib",
-  "version": "1.0.0-dev.0",
+  "version": "1.0.0-dev.1",
   "main": "index.js",
   "bin": {
     "create-react-lib": "index.js"
